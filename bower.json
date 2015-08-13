@@ -5,6 +5,10 @@
     "Kyle Buchanan <kylebuch8@gmail.com>"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kylebuch8/app-framework-bower.git"
+},
   "ignore": [
     "**/.*",
     "node_modules",
